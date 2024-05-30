@@ -22,4 +22,7 @@ A simple URL shortener written in python using the Pyshortners library for short
 3) Enter the URL which you wish to shorten: https://www.example.com
 4) Short URL: http://tinyurl.com/y4nr2b3a
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
 
